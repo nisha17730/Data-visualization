@@ -1,1 +1,29 @@
+What we have learnt so far?
+Initial Exploration
+Introduction to Seaborn
+Univariate Analysis
+Multi-variate Analysis
+What are we going to do in this project :
+We will be using House Pricing dataset for Exploratory Data Analysis(EDA).
+You will Learn to use Matplotlib and Seaborn to Plot the one or more than one Features.
+We will be using visualization techniques on dataset and get some meaningful insights.
+How will completing this project help you
+EDA helps in first level of analysis of data.
+We will analyse the data before making any intuition or assumptions, by plotting it.
+To sharpen your analytics skills before going into feature selection.
+Also, EDA helps use to analyse the following types of features:
 
+Categorical Features
+Numerical Features
+You can revise and refer to the EDA from the slides.
+
+For the assignment we will be using the below packages :
+
+matplotlib
+seaborn
+We will be working with the following features below:
+
+YearBuilt
+TotalBsmtSF
+GrLivArea
+SalePrice
